@@ -9,5 +9,5 @@ If you're new to Flutter development, here are some resources to help you get st
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- [online documentation](https://docs.flutter.dev/), which offers tutorials,samples, guidance on mobile development, and a full API reference.
+- [Online documentation](https://docs.flutter.dev/), which offers tutorials,samples, guidance on mobile development, and a full API reference.
 Feel free to explore the code, experiment with different features, and customize the UI to your liking. Happy coding!
